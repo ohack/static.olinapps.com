@@ -1,0 +1,39 @@
+body {
+    font-family:sans-serif;
+    margin:1em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+header {
+    margin-bottom:4em;
+}
+dd {
+    margin-bottom:2em;
+    margin-top:0.5em;
+}
+dt a {
+    color:#4072f7;
+    font-size:1.5em;
+    text-decoration:none;
+    border:1px solid;
+    padding:.5em;
+    display:inline-block;
+    background:#e1e1f7;
+}
+
+dt a:hover {
+    color:#2c51b0;
+    background:#d6dcf7;
+}
+
+dt a:active {
+    color:#2c51b0;
+    background:#bac7f7;
+}
+a {
+    color:#4072f7;
+}
+
+footer {
+    border-top:1px solid;
+}
