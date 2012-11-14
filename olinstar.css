@@ -37,3 +37,15 @@ a {
 footer {
     border-top:1px solid;
 }
+
+header { margin-bottom: 30px; }
+footer { margin: 30px 0 0; color: #888; border: none; }
+footer a { text-decoration: none; color: inherit; }
+footer a:hover { color: black; }
+footer ul, footer li { display: block; margin: 0; padding: 0; }
+footer ul { overflow: auto; font-size: 22px; margin-top: 50px;}
+footer li { float: left; width: 25%; text-align: center; }
+footer .apps b { color: #C26;}
+footer .students b { color: #3AC;}
+footer .clubs b { color: #3CA;}
+footer .projects b { color: #F90;}
